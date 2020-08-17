@@ -1,16 +1,32 @@
-### Hi there 👋
+## 👋🏽 ¡Hola!, mi nombre es
 
-<!--
-**Yenniferh/Yenniferh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code>
+  <img width="100%" src="https://raw.githubusercontent.com/Yenniferh/Yenniferh/master/.github/Yennifer-Herrera.png" alt='Yennifer Herrera, Software developer'>
+</code>
 
-Here are some ideas to get you started:
+## 🔄 Aprendo, enseño e itero
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Me apasiona el desarrollo web.
+- 🎸 Amo la música.
+- 🉐 Nivel intermedio de inglés, nivel básico de coreano.
+- 🤝🏽 Soy traductora voluntaria en la Global Translator Community de **Coursera**.
+- ✍🏽 Estudiante de 10mo semestre de ingeniería de sistemas en la **Universidad del Norte**.
+- 💚 [Platzi](https://platzi.com/@yenniferh/) student
+
+## Contáctame
+
+<code>
+  <a href="http://www.linkedin.com/in/yennifer-paola-herrera-ariza">
+    <img height="40" src="https://raw.githubusercontent.com/Yenniferh/Yenniferh/master/.github/linkedin.svg" alt='LinkedIn de Yennifer Herrera'/>
+  </a>
+</code>
+<code>
+  <a href="https://twitter.com/yenniferha">
+    <img height="40" src="https://raw.githubusercontent.com/Yenniferh/Yenniferh/master/.github/twitter.svg" alt='Twitter de Yennifer Herrera'/>
+  </a>
+</code>
+<code>
+  <a href="mailto:yenniferh@uninorte.edu.co">
+    <img height="40" src="https://raw.githubusercontent.com/Yenniferh/Yenniferh/master/.github/mail.svg" alt='Correo de Yennifer Herrera'/>
+  </a>
+</code>
