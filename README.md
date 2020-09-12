@@ -11,7 +11,8 @@
 - 🉐 Nivel intermedio de inglés, nivel básico de coreano.
 - 🤝🏽 Soy traductora voluntaria en la Global Translator Community de **Coursera**.
 - ✍🏽 Estudiante de 10mo semestre de ingeniería de sistemas en la **Universidad del Norte**.
-- 💚 [Platzi](https://platzi.com/@yenniferh/) student
+- 💚 Estudiante de [Platzi](https://platzi.com/@yenniferh/)
+- 🤓 Estudiante de [Código facilito](https://codigofacilito.com/usuarios/yennifera)
 
 ## Contáctame
 
