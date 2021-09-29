@@ -11,9 +11,10 @@
 - 🉐 Nivel intermedio de inglés, nivel básico de coreano.
 - 🤝🏽 Soy traductora voluntaria en la Global Translator Community de **Coursera**.
 - 👩‍🎓 Ingeniera de sistemas egresada de la **Universidad del Norte**.
-- 💚 Estudiante de [Platzi](https://platzi.com/@yenniferh/)
-- 🤓 Estudiante de [Código facilito](https://codigofacilito.com/usuarios/yennifera)
+- ✅ Estudiante en [Pluralsight](https://app.pluralsight.com/profile/yennifer-herrera)
+- 🤓 Estudiante en [Código facilito](https://codigofacilito.com/usuarios/yennifera)
 
+- 💚 (Antes) Estudiante en [Platzi](https://platzi.com/@yenniferh/)
 ## Contáctame
 
 <code>
