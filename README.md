@@ -10,7 +10,7 @@
 - 🎸 Amo la música.
 - 🉐 Nivel intermedio de inglés, nivel básico de coreano.
 - 🤝🏽 Soy traductora voluntaria en la Global Translator Community de **Coursera**.
-- ✍🏽 Estudiante de 10mo semestre de ingeniería de sistemas en la **Universidad del Norte**.
+- 👩‍🎓 Ingeniera de sistemas egresada de la **Universidad del Norte**.
 - 💚 Estudiante de [Platzi](https://platzi.com/@yenniferh/)
 - 🤓 Estudiante de [Código facilito](https://codigofacilito.com/usuarios/yennifera)
 
