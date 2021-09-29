@@ -17,7 +17,7 @@
 ## Contáctame
 
 <code>
-  <a href="http://www.linkedin.com/in/yennifer-paola-herrera-ariza">
+  <a href="https://www.linkedin.com/in/yenniferh/">
     <img height="40" src="https://raw.githubusercontent.com/Yenniferh/Yenniferh/master/.github/linkedin.svg" alt='LinkedIn de Yennifer Herrera'/>
   </a>
 </code>
