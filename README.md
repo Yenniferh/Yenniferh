@@ -13,7 +13,7 @@
 - 👩‍🎓 Ingeniera de sistemas egresada de la **Universidad del Norte**.
 - ✅ Estudiante en [Pluralsight](https://app.pluralsight.com/profile/yennifer-herrera)
 - 🤓 Estudiante en [Código facilito](https://codigofacilito.com/usuarios/yennifera)
-- 💚 Fui estudiante en [Platzi](https://platzi.com/@yenniferh/)
+- 💚 Estudiante en [Platzi](https://platzi.com/@yenniferh/)
 
 ## Contáctame
 
