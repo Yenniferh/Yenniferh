@@ -14,7 +14,6 @@
 - ✅ Estudiante en [Pluralsight](https://app.pluralsight.com/profile/yennifer-herrera)
 - 🤓 Estudiante en [Código facilito](https://codigofacilito.com/usuarios/yennifera)
 - 💚 Estudiante en [Platzi](https://platzi.com/@yenniferh/)
-- Test
 
 ## Contáctame
 
