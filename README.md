@@ -6,8 +6,8 @@
 
 ## 🔄 Aprendo, enseño e itero
 
-- 🎯 Me apasiona el desarrollo web.
-- 🎸 Amo la música.
+- 🎯 Me **apasiona** el desarrollo web.
+- 🎸 **Amo** la música.
 - 🉐 Nivel intermedio de inglés, nivel básico de coreano.
 - 🤝🏽 Soy traductora voluntaria en la Global Translator Community de **Coursera**.
 - 👩‍🎓 Ingeniera de sistemas egresada de la **Universidad del Norte**.
