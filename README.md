@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/Yenniferh/Yenniferh/master/.github/Yennifer-Herrera.png" alt='Yennifer Herrera, Software developer'>
 
+[Eng](#english) | [Esp](#español)
+
 ## English
 
 > 🔄 Learn. Teach. Repeat.
